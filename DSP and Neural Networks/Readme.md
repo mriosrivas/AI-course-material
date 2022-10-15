@@ -60,7 +60,7 @@ To test your `dsp.py` script inside the Docker shell run
 ```bash
 python3 dsp.py \
 --features '-1, 0.4, 11.5' \
---axes 3 \
+--axes '1, 1, 1' \
 --frequency 62.4 \
 --draw-graphs true
 ```
@@ -84,5 +84,3 @@ To export your data from Edge Impulse go to your project's `Dashboard`, select `
 ### Train the model
 
 Now you can start to train a neural network with your features already processed!
-
-
