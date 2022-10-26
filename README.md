@@ -10,6 +10,6 @@ Exercise to implement a Neural Network from scratch using Python
 
 Train a Neural Network and preprocess your data using some DSP techniques.
 
-#### Convolutional Neural Networks
+#### Convolutional Neural Networks:
 
 Implementation of LeNet Neural Network to classify images.
