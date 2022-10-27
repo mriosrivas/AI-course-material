@@ -13,3 +13,7 @@ Train a Neural Network and preprocess your data using some DSP techniques.
 #### Convolutional Neural Networks:
 
 Implementation of LeNet Neural Network to classify images.
+
+#### Transfer Learning:
+
+Train the Xception CNN using transfer learning.
