@@ -17,3 +17,7 @@ Implementation of LeNet Neural Network to classify images.
 #### Transfer Learning:
 
 Train the Xception CNN using transfer learning.
+
+#### Deployment of Xception model:
+
+Example on how to deploy a CNN model using Flask.
