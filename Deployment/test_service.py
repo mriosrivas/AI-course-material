@@ -1,3 +1,4 @@
+# You can upload images in https://postimages.org/
 import requests
 import json
 
